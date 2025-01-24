@@ -1,6 +1,7 @@
 # Godot Mobile Plugin
 Integrates Google Play &amp; iOS Plugins into your Godot Project!
-Release on both platforms, or just one ~ and have your project already ready to target the other platform when you decide! 
+Release on both platforms, or just one ~ 
+Have your project already ready to target the other platform when you decide! 
 
 ## About
 This plugin integrates Google Play Game Services, Google BillingClient, Apple GameKit, Apple StoreKit, Apple Push Notifications, and more!
